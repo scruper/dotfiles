@@ -1,2 +1,2 @@
-# dotifiles
-My personal development environment configs
+# dotfiles
+Configuration of my personal development environment
